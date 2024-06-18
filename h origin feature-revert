@@ -1,0 +1,19 @@
+[33mcommit 41c9cabd33a2f6919d4eb298a8e3fa8bb3ec87ce[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Christophe <christophegauthiersokpoly@gmail.com>
+Date:   Tue Jun 18 17:42:47 2024 +0200
+
+    Revert "cours-dev"
+    
+    This reverts commit e3c08dfadc506d8073034dc42a4447afe185638f.
+
+[33mcommit 2d5afccb73dc42d35ec57cb01f7368fab63bebaf[m
+Author: Christophe <christophegauthiersokpoly@gmail.com>
+Date:   Tue Jun 18 15:08:35 2024 +0200
+
+    cours-dev
+
+[33mcommit e3c08dfadc506d8073034dc42a4447afe185638f[m[33m ([m[1;32mdev[m[33m)[m
+Author: Christophe <christophegauthiersokpoly@gmail.com>
+Date:   Tue Jun 18 14:47:30 2024 +0200
+
+    cours-dev
